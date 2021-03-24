@@ -49,11 +49,11 @@ Here's a walkthrough of implemented user stories:
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? 
 
-    The challenge I encountered in creating this submission was making the guess function work properly. Also, I had trouble getting the sound to play. Sometimes the music      works and other times it stops. 
+    The challenge I encountered in creating this submission was making the guess function work properly. Also, I had trouble getting the sound to play. Sometimes the music      worked and other times it stopped. 
 
 3. What questions about web development do you have after completing your submission? 
 
-    One question I have about web development after completing my submission is can also add videos using html/css with js?
+    One question I have about web development after completing my submission is can I also add videos using html/css with js?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. 
 
