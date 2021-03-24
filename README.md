@@ -6,7 +6,7 @@ Submitted by: **Melissa Jesmin**
 
 Time spent: **3** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/melissa-game)
 
 ## Required Functionality
 
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+![](MemoryGameWalkthrough.gif)
 
 
 ## Reflection Questions
